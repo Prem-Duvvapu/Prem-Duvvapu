@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
 
 ### 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Resume](https://your-resume-link.com)  
-- [LeetCode](https://leetcode.com/your-username)  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username)  
-- [CodeChef](https://www.codechef.com/users/your-username)
+- [LinkedIn](https://www.linkedin.com/in/prem-duvvapu/)  
+- [Resume](https://drive.google.com/file/d/1NwOXW9nN4icT1my3_S4AIeqfo2sfdNsf/view?usp=sharing)  
+- [LeetCode](https://leetcode.com/u/prem_duvvapu/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/prem_duvvapu/)  
+- [CodeChef](https://www.codechef.com/users/prem_duvvapu)
 
 ---
 
