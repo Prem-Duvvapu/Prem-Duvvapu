@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
 ### 💻 Technical Skills
 
 **Languages:**  
-Java, Python, Ruby, Golang, SQL, HTML, CSS, JavaScript
+Java, Golang, SQL, HTML, CSS, JavaScript
 
 **Frameworks & Libraries:**  
 Ruby on Rails, React.js
@@ -28,7 +28,7 @@ AWS (EC2, S3, CloudWatch, ECR, IAM, Lambda, EKS)
 Jenkins, New Relic, VS Code
 
 **Core CS Subjects:**  
-Data Structures & Algorithms, DBMS, Computer Networks, Operating Systems
+Data Structures & Algorithms, Low Level Design, DBMS, Computer Networks, Operating Systems
 
 ---
 
