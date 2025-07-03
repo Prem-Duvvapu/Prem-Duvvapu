@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with experience
 Java, Golang, SQL, HTML, CSS, JavaScript
 
 **Frameworks & Libraries:**  
-Ruby on Rails, React.js
+Ruby on Rails, Spring, Spring Boot, React.js
 
 **Developer Tools & Platforms:**  
 Git, Docker, GitHub Actions, Kubernetes  
