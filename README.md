@@ -2,11 +2,11 @@
 <h3 align="center">Backend Software Engineer | Building scalable systems, one commit at a time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=SDE-1+Backend+%40+Osfin;Java+%7C+Golang+%7C+Spring+Boot+%7C+Ruby+on+Rails;LeetCode+Knight+%7C+Top+4%25+Globally;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=SDE-1+Backend+%40+Osfin;Java+%7C+Golang+%7C+Spring+Boot+%7C+Ruby+on+Rails;LeetCode+Knight+%7C+Top+4%25+Globally;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prem-duvvapu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Prem-Duvvapu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/prem_duvvapu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/user/prem_duvvapu/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/prem_duvvapu"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
@@ -115,8 +115,8 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Bulls-Lab](https://github.com/prem-duvvapu)** | React · Golang · Python · REST APIs | Paper investment platform simulating real-world trading — Golang backend for auth/portfolio/orders, Python market-data service, React dashboard for holdings & performance. |
-| **[Quiz App](https://github.com/prem-duvvapu)** | Spring Boot · JPA · Spring Cloud · OpenFeign · PostgreSQL · Eureka | Modular microservices app with clean MVC separation, Eureka-based service discovery, and Feign-powered inter-service communication. |
+| **[Bulls-Lab](https://github.com/Prem-Duvvapu)** | React · Golang · Python · REST APIs | Paper investment platform simulating real-world trading — Golang backend for auth/portfolio/orders, Python market-data service, React dashboard for holdings & performance. |
+| **[Quiz App](https://github.com/Prem-Duvvapu)** | Spring Boot · JPA · Spring Cloud · OpenFeign · PostgreSQL · Eureka | Modular microservices app with clean MVC separation, Eureka-based service discovery, and Feign-powered inter-service communication. |
 
 *(Update the links above with your actual repo URLs.)*
 
@@ -132,26 +132,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-duvvapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-duvvapu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prem-Duvvapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Duvvapu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-duvvapu&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-Duvvapu&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/prem_duvvapu?theme=dark&font=Rubik&ext=heatmap"/>
 </p>
 
-> ⚠️ Replace `prem-duvvapu` above with your exact GitHub username if it differs, so the stat cards render correctly.
-
 ---
 
 ### 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prem-duvvapu/prem-duvvapu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Prem-Duvvapu/Prem-Duvvapu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <details>
