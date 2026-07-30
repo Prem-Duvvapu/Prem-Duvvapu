@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer | Building scalable systems, one commit at a time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=SDE-1+Backend+%40+Osfin;Java+%7C+Golang+%7C+Spring+Boot+%7C+Ruby+on+Rails;LeetCode+Knight+%7C+Top+4%25+Globally;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=SDE-1+Backend+%40+Osfin;Java+%7C+Golang+%7C+Spring+Boot+%7C+Ruby+on+Rails;LeetCode+Knight+%7C+Top+4%25+Globally;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -118,8 +118,6 @@
 | **[Bulls-Lab](https://github.com/Prem-Duvvapu)** | React · Golang · Python · REST APIs | Paper investment platform simulating real-world trading — Golang backend for auth/portfolio/orders, Python market-data service, React dashboard for holdings & performance. |
 | **[Quiz App](https://github.com/Prem-Duvvapu)** | Spring Boot · JPA · Spring Cloud · OpenFeign · PostgreSQL · Eureka | Modular microservices app with clean MVC separation, Eureka-based service discovery, and Feign-powered inter-service communication. |
 
-*(Update the links above with your actual repo URLs.)*
-
 ---
 
 ### 🏆 Achievements
@@ -151,45 +149,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prem-Duvvapu/Prem-Duvvapu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-<details>
-<summary>💡 How to enable the snake animation (one-time setup)</summary>
-<br/>
-
-1. In your profile repo, go to **Settings → Actions → General** and enable Actions.
-2. Add a workflow file at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit, push, and run the workflow once manually from the **Actions** tab. The snake SVG will then update daily.
-
-</details>
 
 ---
 
