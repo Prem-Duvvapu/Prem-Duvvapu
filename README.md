@@ -6,11 +6,13 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-rho-beryl-41.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/Prem-Duvvapu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/prem_duvvapu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/prem_duvvapu"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/prem_duvvapu/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/prem_duvvapu"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1NwOXW9nN4icT1my3_S4AIeqfo2sfdNsf/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/12oPVGy0-L0VWJ1ttkRRyCLJ5WtMFkrQD/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
@@ -115,8 +117,10 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Bulls-Lab](https://github.com/Prem-Duvvapu)** | React · Golang · Python · REST APIs | Paper investment platform simulating real-world trading — Golang backend for auth/portfolio/orders, Python market-data service, React dashboard for holdings & performance. |
-| **[Quiz App](https://github.com/Prem-Duvvapu)** | Spring Boot · JPA · Spring Cloud · OpenFeign · PostgreSQL · Eureka | Modular microservices app with clean MVC separation, Eureka-based service discovery, and Feign-powered inter-service communication. |
+| **[lld-with-ui](https://github.com/Prem-Duvvapu/lld-with-ui)** | Java 17 · Spring Boot · React 19 · Vite | SDE-2 interview prep portfolio of 60 Low-Level Design problems (Parking Lot, Uber, Splitwise, Elevator, and more) with interactive simulations, class diagrams, and design-pattern write-ups. |
+| **[dsa-with-ui](https://github.com/Prem-Duvvapu/dsa-with-ui)** | Java · Spring Boot · React · Vite | Full-stack DSA visualizer covering 400+ catalogued problems, each with a step-by-step execution trace highlighting the exact line of Java code as it runs. |
+| **[cs-fundamentals-with-ui](https://github.com/Prem-Duvvapu/cs-fundamentals-with-ui)** | Java · Spring · React | Interactive CS fundamentals platform spanning Operating Systems, Computer Networks, DBMS, and the Java/Spring ecosystem across 63 curriculum topics, with simulators for CPU scheduling, page replacement, and B+ tree indexing. |
+| **[sde-interview-loop](https://github.com/Prem-Duvvapu/sde-interview-loop)** | Spring Boot · React · LLM | AI-powered mock interview platform running full SDE-2 backend interview loops — DSA, LLD, HLD, CS fundamentals, Java deep-dive, and behavioral rounds — scored against a rubric. |
 
 ---
 
